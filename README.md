@@ -1,4 +1,5 @@
 # Task 
-All items are made by ObjectPool class which has an append method. The method is creating an array from all items in it.
-All items also have an bulean value which is sorting them by visibilities. 
-After submiting the result (student's choosen item and id in base64 encode: \<id>\<item> ) will be shown IN THE CONSOLE.
+This were my first task for Software Developer position at TUMO. <br>
+All the items are made by Object pool design patern which is aminly used in game development. <br>
+The data are comming from JSON file. <br>
+On my second interview is changed the view of items and were getting data from API.
